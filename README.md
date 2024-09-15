@@ -1,7 +1,7 @@
 # Desafio Técnico Java – Supera
 
 ## Descrição
-Este projeto consiste em quatro desafios técnicos implementados em Java, abrangendo diferentes aspectos da programação, desde manipulação de strings e lógica matemática até o desenvolvimento de uma API RESTful. Os desafios foram desenvolvidos como parte de um processo seletivo e utilizam testes automatizados para validar as soluções.
+Este projeto consiste em um desafio técnico implementado em Java, abrangendo diferentes aspectos da programação, desde manipulação de strings e lógica matemática até o desenvolvimento de uma API RESTful. O desafio foi desenvolvido como parte de um processo seletivo e utilizam testes automatizados para validar as soluções.
 
 ## Estrutura do Projeto
 O projeto é composto pelos seguintes diretórios e arquivos principais:
